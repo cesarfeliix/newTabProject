@@ -1,0 +1,45 @@
+html, body {
+    background-color: black;
+    height: 90%;
+    
+   /* border: solid 1px red; */
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
+    padding: 10px;
+    user-select: none;
+}
+
+.favLinks {
+    height: 70%;
+   /* border: solid 1px red; */
+    margin: 3% 1%;
+    color: white;
+    font-family: Open Sans;
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+.footer {
+    height: 20%;
+   /* border: solid 1px red; */
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+
+#clock {
+    font-size: 30px;
+    padding-left: 10px;
+}
+
+#today {
+    font-size: 15px;
+    padding-left: 10px;
+}
