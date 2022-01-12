@@ -3,3 +3,5 @@ This is a test to see how this is going to work on my repository
 I'm just trying to understand what git works and for that I have created this file which I'm trying to use here.
 
 download git here: http://git-scm.com/download/win
+
+Now I'm trying to use git on my PC at home, to see if it works
