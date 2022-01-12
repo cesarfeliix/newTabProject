@@ -7,3 +7,5 @@ download git here: http://git-scm.com/download/win
 Now I'm trying to use git on my PC at home, to see if it works
 
 Apparently it did not work but I will try one more time
+
+Another test
