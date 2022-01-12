@@ -9,3 +9,5 @@ Now I'm trying to use git on my PC at home, to see if it works
 Apparently it did not work but I will try one more time
 
 Another test
+
+Now that I did the push the files uploaded to the main tree
