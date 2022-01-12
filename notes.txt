@@ -1,6 +1,6 @@
 This is a test to see how this is going to work on my repository
 
-I'm just trying to understand how git works and for that I have created this file which I'm trying to use here.
+I'm just trying to understand how  git works and for that I have created this file which I'm trying to use here.
 
 download git here: http://git-scm.com/download/win
 
