@@ -8,7 +8,7 @@
       "newtab": "index.html"
     },
       "content_scripts": [{
-        "js": ["jquery.min.js", "jQueryScript.js"],
+        "js": ["/apis/jquery.min.js"],
         "matches": ["http://*/*", "https://*/*"]
       }]
     }
